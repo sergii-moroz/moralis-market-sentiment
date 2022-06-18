@@ -1,17 +1,9 @@
-# Basic Sample Hardhat Project
+# First dApp 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Descentralized voting dap using the moralis SDK.
 
-Try running some of the following tasks:
+•Tech used: Solidity, Hardhat, Moralis, React, npm, vite, CSS. For the backend you will be using the moralis servers.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+•Mumbai testnet.
 
-0x5d81FE8773b9c0E5e8DbE830d46402203819bcAb
+•Moralis Web3 youtube tutorial : https://www.youtube.com/watch?v=MI_Se26Sfmo
