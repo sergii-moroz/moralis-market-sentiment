@@ -1,6 +1,6 @@
 # moralis-market-sentiment: First dApp 
 
-![desktop](./moralis-market-sentiment.png)
+![desktop](./market-sentiment-app.png)
 
 Descentralized voting dap using the moralis SDK.
 
